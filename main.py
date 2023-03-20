@@ -1,6 +1,8 @@
-import Lab1.task as task1
+import Lab1.task as lab1
+import Lab2.task1 as lab21
+import Lab2.task2 as lab22
+import Lab3.task1 as lab31
+import Lab4.task1 as lab41
 
 if __name__ == '__main__':
-    # task1.ExpressionExecuter.execute()
-    # task1.OddFinder.execute()
-    task1.WordSorter.execute()
+    lab41.execute()
